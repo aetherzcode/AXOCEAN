@@ -37,25 +37,6 @@ AXOCEAN adalah situs e-commerce modern yang mengkhususkan diri dalam aksesoris r
 
 2. Buka `index.html` di browser web Anda untuk melihat website secara lokal.
 
-## 📂 Struktur Proyek
-
-AXOCEAN/
-├── index.html
-├── axoceanpage2.html
-├── singleproduct.html
-├── error404.html
-├── css/
-│   ├── stylesheet.css
-│   ├── axoceanpage2css.css
-│   ├── singleproductcss.css
-│   └── Bow-Clips-Designs.css
-├── js/
-│   └── script.js
-├── assets/
-│   ├── images/
-│   └── icons/
-└── README.md
-
 ## 📱 Halaman yang Tersedia
 
 - `index.html` - Halaman utama
