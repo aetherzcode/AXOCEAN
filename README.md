@@ -85,8 +85,8 @@ Dibuat oleh AETHER ([@aetherzcode](https://github.com/aetherzcode))
 ## 📞 Kontak
 
 - GitHub: [@aetherzcode](https://github.com/aetherzcode)
-- Website: [axocean.com](#)
-- Email: contact@axocean.com
+- Website: [aetherz.xyz](https://aetherz.xyz)
+- Email: aetherscode@gmail.com
 
 ## 📄 Lisensi
 
